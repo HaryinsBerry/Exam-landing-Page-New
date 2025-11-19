@@ -240,6 +240,7 @@ header #menu {
 .home h1 {
     font-size: 6rem;
     color: rgb(69, 69, 117);
+    margin: 0;
 }
 
 .home p {
